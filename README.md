@@ -1,5 +1,10 @@
 # mermaid
 
+
+![mermaid ](/mermaid-diagram-20180324112239.svg)
+
+
+
 Código da relação de dependências e durações das tarefas.
 
 | Tarefa |             Nome           | Dependências   | Tempo | 
